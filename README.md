@@ -3,7 +3,7 @@
 ### Authors
 
 - [Linghui Wu](https://github.com/linghui-wu)
-- [Tim Qian Zhang](https://github.com/timqzhang)
+- [Tim, Qian Zhang](https://github.com/timqzhang)
 - [Minghao Yang](https://github.com/WMhYang)
 
 - Instructor: Professor James Evans
