@@ -2,7 +2,7 @@
 
 ### Abstract
 
-The repository contains group project for Computational Content Analysis course in Spring 2020. (TBA)
+The mechanisms behind the huge success of the Chinese economy after the 1990s are of substantial interest in social sciences. The paper intends to use content analysis to figure out how the Chinese economic reform in the last century initiated, and particularly, how the transition from planned to market economy took place and what features characterize the new Chinese market economy. We find that the transition period lasts about 15 years with a smooth process and distinctive changes. We also extract three typical features in the Chinese market economy, namely the government's selective control on industries and firms, development as the major theme of the Chinese market economy, and the two-layer structure of people in decision making. We further discuss the validity and robustness of our methods and results. 
 
 ### Authors
 
@@ -10,7 +10,9 @@ The repository contains group project for Computational Content Analysis course 
 - [Tim, Qian Zhang](https://github.com/timqzhang)
 - [Minghao Yang](https://github.com/WMhYang)
 
-- Instructor: Professor James Evans
+### Acknowledgement
+
+We want to express our sincere gratitude to Professor James Evans who provides us with continuous support and helpful comments. We also thank our two teaching assistants, Bhargav Srinivasa Desikan and Hyunku Kwon, for continuous technical support. We want to further thank Shilin Jia, PhD student of sociology at University of Chicago, who gives us useful suggestions on processing Chinese text.
 
 ### Repository Structure
 
@@ -59,7 +61,7 @@ Techniques used in the projects come from:
 - *week1* - count word frequency, and plot lexical dispersion and word cloud
 - *week4* - perform network analysis to calculate centrality and explore key figures via Networkx. 
 - *week5* - implement LDA to capture topic dynamics in People's Daily
-- *week6* - apply Word2Vec and Doc2Vec for preliminary data sampling, and use Word2Vec for futher project (TBA)
+- *week6* - apply Word2Vec and Doc2Vec for preliminary data sampling, and use Word2Vec to project words of interet to *planned* vs. *market* dimension, and to investigate the dynamic linguistic changes
 
 ### References
 
