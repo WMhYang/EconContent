@@ -57,8 +57,8 @@ The repository contains group project for Computational Content Analysis course 
 Techniques used in the projects come from:
 
 - *week1* - count word frequency, and plot lexical dispersion and word cloud
-- *week4* - perform network analysis on central words and key figures (TBA)
-- *week5* - implement LDA to capture topic dynamics in People's daily
+- *week4* - perform network analysis to calculate centrality and explore key figures via Networkx. 
+- *week5* - implement LDA to capture topic dynamics in People's Daily
 - *week6* - apply Word2Vec and Doc2Vec for preliminary data sampling, and use Word2Vec for futher project (TBA)
 
 ### References
@@ -70,6 +70,7 @@ Techniques used in the projects come from:
 - Hamilton, William L., Jure Leskovec, and Dan Jurafsky, “Diachronic Word EmbeddingsReveal Statistical Laws of Semantic Change,” in “Proc. Assoc. Comput. Ling. (ACL)” 2016.
 
 - Lu, Yongxiang,Science Progress in China, Elsevier Science, 2006.
+- Maskin, Eric, Yingyi Qian, and Chenggang Xu, “Incentives, information, and organizationalform,”The review of economic studies, 2000,67(2), 359–378
 
 - Mikolov, Tomas, Kai Chen, Greg Corrado, and Jeffrey Dean, “Efficient estimation of wordrepresentations in vector space,”arXiv preprint arXiv:1301.3781, 2013.
 
