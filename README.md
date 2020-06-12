@@ -2,7 +2,7 @@
 
 ### Abstract
 
-The mechanisms behind the huge success of the Chinese economy after the 1990s are of substantial interest in social sciences. The paper intends to use content analysis to figure out how the Chinese economic reform in the last century initiated, and particularly, how the transition from planned to market economy took place and what features characterize the new Chinese market economy. We find that the transition period lasts about 15 years with a smooth process and distinctive changes. We also extract three typical features in the Chinese market economy, namely the government's selective control on industries and firms, development as the major theme of the Chinese market economy, and the two-layer structure of people in decision making. We further discuss the validity and robustness of our methods and results. 
+The mechanisms behind the huge success of the Chinese economy after the 1990s are of substantial interest in social sciences, yet rarely studied using NLP. The paper intends to use computational content analysis to figure out how the Chinese economic reform in the last century initiated, and particularly, how the transition from planned to market economy took place and what characteristics the Chinese socialist market economy possesses. We find that the transition period lasts about 15 years with a smooth process and distinctive changes. We also extract three typical features in the Chinese market economy, namely the government's selective control on industries and firms, development as the major theme of the Chinese market economy, and the two-layer structure of people in decision making. The validity and robustness of our methods are further scrutinized in the conclusions.
 
 ### Authors
 
